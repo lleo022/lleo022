@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world, I'm Leo 👋
 
 <!--
 **lleo022/lleo022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
